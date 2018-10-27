@@ -17,3 +17,9 @@ To git@github.com:RaineSkye/learn-co-sandbox.git
  + f8855a0...b210043 refs/wip/master -> wip (forced update)
 Setting up watches.  Beware: since -r was given, this may take a while!
 Watches established.
+/home/RaineSkye/Development/my_new_directory/ CLOSE_WRITE,CLOSE README.md
+no changes
+Everything up-to-date
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/RaineSkye/Development/.git/ CREATE index.lock

@@ -503,3 +503,7 @@ cd
 ~/code
 git init
 git add
+git add .
+git commit -m "initialize git"
+git remote add origin https://github.com/RaineSkye/iam.git
+echo "Add this to my file too" > README.md
