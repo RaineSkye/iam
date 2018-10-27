@@ -1,0 +1,19 @@
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/RaineSkye/Development/.git/ CREATE FETCH_HEAD
+no changes
+error: src refspec wip/master does not match any.
+error: failed to push some refs to 'git@github.com:RaineSkye/learn-co-sandbox.git'
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/RaineSkye/Development/.git/ CLOSE_WRITE,CLOSE FETCH_HEAD
+no changes
+error: src refspec wip/master does not match any.
+error: failed to push some refs to 'git@github.com:RaineSkye/learn-co-sandbox.git'
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/RaineSkye/Development/.git/ CREATE ORIG_HEAD.lock
+To git@github.com:RaineSkye/learn-co-sandbox.git
+ + f8855a0...b210043 refs/wip/master -> wip (forced update)
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.

@@ -1,0 +1,12 @@
+[user]
+  user  = 'RaineSkye'
+  name  = 'kitte anderson'
+  email = 'kitteanderson@gmail.com'
+[github]
+  user  = 'RaineSkye'
+  email = 'kitteanderson@gmail.com'
+[github "user"]
+  user  = 'RaineSkye'
+  email = 'kitteanderson@gmail.com'
+[push]
+  default = simple
